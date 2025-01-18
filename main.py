@@ -61,27 +61,6 @@ async def on_message(message):
 
     if 'iris' in msg.lower():
         await message.channel.send('iris is the best!!!')
-    
-    if 'bufia' in msg.lower():
-        await message.channel.send('gn', delete_after=2)
-
-    if 'sufia' in msg.lower():
-        await message.channel.send('bill lover', delete_after=2)
-
-    if 'bill' in msg.lower():
-        await message.channel.send('sufia lover', delete_after=2)
-
-    if 'sam' in msg.lower():
-        await message.channel.send('stupid monkey')
-
-    if 'samuel' in msg.lower():
-        await message.channel.send('https://cdn.discordapp.com/attachments/1081029378835746886/1117663114477961346/33fd669f47d84f1584f346896447cc1e.mov')
-
-    if 'cat' in msg.lower():
-        await message.channel.send("https://cdn.discordapp.com/attachments/1080751680733315132/1101007560888303616/20230426_131350.jpg")
-
-    if 'pussy' in msg.lower():
-        await message.channel.send("https://cdn.discordapp.com/attachments/1080751680733315132/1101007560888303616/20230426_131350.jpg")
 
     if 'ian' in msg.lower():
         await message.channel.send(":D")
